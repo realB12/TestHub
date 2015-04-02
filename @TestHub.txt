@@ -1,4 +1,4 @@
 @TestHub.txt
 
-Test-Verzeichnis zum Testen von GitHUB Funktionen. 
+Test-Verzeichnis zum Testen von der lokal installierten GitHub Applikation. 
 Dieses Verzeichnis sollte niemals aktiven/wichtigen Code enthalten, resp. kann der Inhalt dieses Verzeichnisses jederzeit gelöscht werden. 
